@@ -35,3 +35,8 @@ Personal development log — notes, findings, and ongoing work.
 ## 2026-07-01
 - Verified API endpoint response schema
 - Wrote notes on upcoming feature design
+
+## 2026-07-01
+- Documented config options
+- Reviewed open issues, added labels
+- Wrote notes on upcoming feature design
