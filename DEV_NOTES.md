@@ -45,3 +45,8 @@ Personal development log — notes, findings, and ongoing work.
 - Refactored module structure for clarity
 - Removed unused variable declarations
 - Added type hints to helper functions
+
+## 2026-07-08
+- Reviewed codebase, identified areas for improvement
+- Refactored module structure for clarity
+- Reorganised test fixtures
