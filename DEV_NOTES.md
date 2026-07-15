@@ -58,3 +58,7 @@ Personal development log — notes, findings, and ongoing work.
 ## 2026-07-15
 - Refactored module structure for clarity
 - Added CONTRIBUTING.md stub
+
+## 2026-07-15
+- Reviewed security headers configuration
+- Added inline documentation for core functions
