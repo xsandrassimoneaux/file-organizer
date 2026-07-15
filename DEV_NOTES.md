@@ -54,3 +54,7 @@ Personal development log — notes, findings, and ongoing work.
 ## 2026-07-08
 - Fixed minor edge case in input handling
 - Refactored module structure for clarity
+
+## 2026-07-15
+- Refactored module structure for clarity
+- Added CONTRIBUTING.md stub
