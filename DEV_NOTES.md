@@ -67,3 +67,6 @@ Personal development log — notes, findings, and ongoing work.
 - Updated license year
 - Noted known limitation in docs
 - Added .editorconfig for consistent formatting
+
+## 2026-08-26
+- Resolved deprecation warnings
