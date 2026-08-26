@@ -62,3 +62,8 @@ Personal development log — notes, findings, and ongoing work.
 ## 2026-07-15
 - Reviewed security headers configuration
 - Added inline documentation for core functions
+
+## 2026-08-26
+- Updated license year
+- Noted known limitation in docs
+- Added .editorconfig for consistent formatting
