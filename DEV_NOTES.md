@@ -74,3 +74,6 @@ Personal development log — notes, findings, and ongoing work.
 ## 2026-09-30
 - Drafted initial implementation plan for v2
 - Added CONTRIBUTING.md stub
+
+## 2026-09-30
+- Cross-checked behaviour against spec
