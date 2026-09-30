@@ -77,3 +77,6 @@ Personal development log — notes, findings, and ongoing work.
 
 ## 2026-09-30
 - Cross-checked behaviour against spec
+
+## 2026-09-30
+- Ran linter, applied auto-fixes
