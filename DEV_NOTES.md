@@ -70,3 +70,7 @@ Personal development log — notes, findings, and ongoing work.
 
 ## 2026-08-26
 - Resolved deprecation warnings
+
+## 2026-09-30
+- Drafted initial implementation plan for v2
+- Added CONTRIBUTING.md stub
