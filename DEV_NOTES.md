@@ -89,3 +89,8 @@ Personal development log — notes, findings, and ongoing work.
 ## 2026-10-14
 - Improved log message formatting
 - Cross-checked behaviour against spec
+
+## 2026-10-14
+- Updated CI cache strategy
+- Added healthcheck endpoint stub
+- Checked for memory leaks in long-running path
