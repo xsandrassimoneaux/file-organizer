@@ -85,3 +85,7 @@ Personal development log — notes, findings, and ongoing work.
 - Improved log message formatting
 - Tidied up project structure
 - Added inline documentation for core functions
+
+## 2026-10-14
+- Improved log message formatting
+- Cross-checked behaviour against spec
