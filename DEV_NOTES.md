@@ -80,3 +80,8 @@ Personal development log — notes, findings, and ongoing work.
 
 ## 2026-09-30
 - Ran linter, applied auto-fixes
+
+## 2026-10-14
+- Improved log message formatting
+- Tidied up project structure
+- Added inline documentation for core functions
